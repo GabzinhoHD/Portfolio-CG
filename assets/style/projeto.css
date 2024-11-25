@@ -146,3 +146,8 @@ body {
     overflow-x: hidden;
     color: var(--branco)
 };
+
+.contato {
+    color: var(--paynes-gray);
+    font-size: 1.4rem;
+}
