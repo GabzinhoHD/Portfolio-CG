@@ -58,6 +58,11 @@ a {
     color: var(--true-blue);
 }
 
+.contato {
+    color: var(--paynes-gray);
+    font-size: 1.4rem;
+}
+
 a :hover{
     color: var(--oxford-blue);
     transition: 0.1s ;
@@ -147,7 +152,3 @@ body {
     color: var(--branco)
 };
 
-.contato {
-    color: var(--paynes-gray);
-    font-size: 1.4rem;
-}
